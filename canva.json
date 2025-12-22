@@ -1,0 +1,30 @@
+{
+  "name": "Dragvertising",
+  "description": "Import your drag show data directly into Canva designs. Create stunning show covers, flyers, and social media posts with just a few clicks.",
+  "tagline": "Drag show marketing made easy",
+  "icon": {
+    "url": "https://dragvertising.com/assets/canva-app-icon-512.png",
+    "alt": "Dragvertising logo"
+  },
+  "coverImage": {
+    "url": "https://dragvertising.com/assets/canva-app-cover-1280x720.jpg",
+    "alt": "Dragvertising Canva app preview"
+  },
+  "categories": [
+    "events",
+    "entertainment",
+    "marketing",
+    "productivity"
+  ],
+  "permissions": [
+    "DESIGN:WRITE",
+    "ASSET:UPLOAD"
+  ],
+  "extensions": {
+    "contentTypes": ["image/jpeg", "image/png"]
+  },
+  "privacyPolicyUrl": "https://dragvertising.com/privacy",
+  "termsOfServiceUrl": "https://dragvertising.com/terms",
+  "supportUrl": "https://dragvertising.com/support"
+}
+
