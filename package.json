@@ -4,9 +4,10 @@
   "description": "Import drag show data into Canva designs",
   "private": true,
   "scripts": {
-    "start": "canva-apps-sdk start",
-    "build": "canva-apps-sdk build",
-    "preview": "canva-apps-sdk preview"
+    "start": "canva dev",
+    "dev": "canva dev",
+    "preview": "canva apps preview",
+    "doctor": "canva apps doctor"
   },
   "dependencies": {
     "@canva/app-ui-kit": "^4.0.0",
@@ -16,7 +17,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@canva/app-sdk": "^1.0.0",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "typescript": "^5.0.0"
